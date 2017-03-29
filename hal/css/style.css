@@ -1,1 +1,5 @@
-# Empty CSS file for your own CSS
+.main-branch-image {
+    background-image: url("./images/mainbranch.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
