@@ -25,3 +25,35 @@ div.jumbotron {
     min-height: calc(100vh - 120px);
   }
 }
+
+    /* success button */
+    .btn-success {
+        background-color: #FFF;
+        /* text color */
+        color: #fff;
+        border-color: #996699;
+        border-radius: 25px;
+    }
+    .btn-success:hover,
+    .btn-success:focus,
+    .btn-success:active    {
+        background-color: #996699;
+        color: #FFF;
+        border-color: #996699;
+    }
+
+    /* success button */
+    .btn-mybtn {
+        background-color: #996699;
+        /* text color */
+        color: #fff;
+        border-color: #996699;
+        border-radius: 25px;
+    }
+    .btn-mybtn:hover,
+    .btn-mybtn:focus,
+    .btn-mybtn:active    {
+        background-color: #996699;
+        color: #FFF;
+        border-color: #996699;
+    }
